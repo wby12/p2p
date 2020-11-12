@@ -1,0 +1,28 @@
+package com.bw.p2pinvistment1802.view.fragment;
+
+import com.bw.lib_core.view.BaseFragment;
+import com.bw.p2pinvistment1802.R;
+import com.bw.p2pinvistment1802.contract.HomeContract;
+import com.bw.p2pinvistment1802.presenter.HomePresenter;
+
+public class HomeFragment extends BaseFragment<HomePresenter> implements HomeContract.View {
+    @Override
+    public int bandLayout() {
+        return R.layout.fragment_home;
+    }
+
+    @Override
+    public void initView() {
+
+    }
+
+    @Override
+    public void initInject() {
+
+    }
+
+    @Override
+    public void initData() {
+
+    }
+}

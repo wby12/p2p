@@ -1,0 +1,354 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.github.Vincent7Wong:EasyNavigation:2.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f891bf342af71ef062513eccaba38920\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e5ea6de26ff48db4b1b2395db2e51b53\AndroidManifest.xml:2:1-11:12
+MERGED from [:lib_core] D:\AndroidStudioProjects_1802\p2p\lib_core\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.3.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc8a68e29b8aaac44459cacba8374f30\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\54adfc6c9291645a5ee5b002c7febe4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.yanyusong.y_divideritemdecoration:y_divideritemdecoration:2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c12dfff01a906f6a96c49b180b32d3b8\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:2:1-34:12
+MERGED from [com.github.lzjin:ViewPagerGallery:1.3] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f93fd81b802406bf3b3984aa07f1e524\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.LRH1993:AutoFlowLayout:1.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\3e589e803412f23c2e5306cef77be7b6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.uncleleonfan:StellarMap:v1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce7a7c4db264f4332722593507cb7e63\AndroidManifest.xml:2:1-17:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce362ea43a820af5675b8560a91c06f1\AndroidManifest.xml:13:1-19:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\1dc9807a8724d45de8b720bb378d4643\AndroidManifest.xml:17:1-24:12
+MERGED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:2:1-37:12
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\34fdf6a47eba812b235fa3eea9c94957\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4fa8ae1dde5425ccb02eee4effbc50b4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc9e7a10276111ad2b66724edb85cb83\AndroidManifest.xml:2:1-12:12
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\068a84fe7bc4f8a8e3a17a51c2175bfe\AndroidManifest.xml:2:1-11:12
+MERGED from [org.sufficientlysecure:html-textview:3.9] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4055cb5a7438e9d87dba3633e1aa5f1e\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.9.25] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d1f822df25ca370af8128e419a9ce23a\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cd28d408d90a7b37908cb77d170813e5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\63fa1e1d16e35f31c2f35df2c2c479d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bdec483c5aaaf2c079de9bcd300929b8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\301d9b26a021051f75ca01703e736526\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ae0266da455cc0ae0de1215760a4e339\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\b4e66562e025bf2f80868a41b91c6d21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\560823c812a21fa8969a7b586cc3e8c3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8a8caa620b93f9db05818d7b82955bd4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2d5614c15fcc2222bd7ca88141262030\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\a9a5467ec4c20c21530f470ccd9cc7a1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c2dc835fe261a311e117996351e41e55\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\93b1130072c96a56d2269d3c3bd0e70f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\98c6ed2e3416d37853ba7bdbcc079073\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ab1b15754df0c3564d940eeea449ca42\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fd0c699562f82f3a28fa2490f26f5a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6e8a390cddd57319d184250544f5c1db\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5f47342d5de8fd60d1858358a97f63a2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5c97969496205521bb1cd35e8b35d225\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\930f35dbca1d89dd3ecb7367785b832f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\24c6ac45470b3f3a739a08195d222bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:17:1-26:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd6b2338fde33a1e55fe327ec409ca09\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fa9e2c1b723255dafe86b444d634226\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\69018fecfd5dafebc30b9c77c5a6d8d8\AndroidManifest.xml:17:1-27:12
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cbc7251495326a6e2eba0c8690ce66d1\AndroidManifest.xml:13:1-19:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\821fb3c1cc6ae5cd51e9a16d701d3167\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5b918a8fc37982dd2a28fe349791c9f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\206e036cd8cafe91947312a3863c9375\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\73ed4cd76976426ab818ef81580dcb83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce2f1107dbb77511bc2459e1c8be9b7f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\712bc0662cddce11dbae87c739f25ea1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cab9c78cc54af00e412b47116525f28e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2c71b4c802b4adfcec89b5225db38fe0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\00f99811abc65ed8935017eccb1c8a2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d4a7c53f99f5d86c6110da0aba40969c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c58a7ba3880f6ab3b016f6bc96e87b99\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd88f09d80576775898a8792a9e8d1e8\AndroidManifest.xml:15:1-20:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e5ea6de26ff48db4b1b2395db2e51b53\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e5ea6de26ff48db4b1b2395db2e51b53\AndroidManifest.xml:9:5-20
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.3.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc8a68e29b8aaac44459cacba8374f30\AndroidManifest.xml:11:5-13:38
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.3.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc8a68e29b8aaac44459cacba8374f30\AndroidManifest.xml:11:5-13:38
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\54adfc6c9291645a5ee5b002c7febe4b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\54adfc6c9291645a5ee5b002c7febe4b\AndroidManifest.xml:22:5-20
+MERGED from [com.yanyusong.y_divideritemdecoration:y_divideritemdecoration:2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c12dfff01a906f6a96c49b180b32d3b8\AndroidManifest.xml:11:5-15:19
+MERGED from [com.yanyusong.y_divideritemdecoration:y_divideritemdecoration:2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c12dfff01a906f6a96c49b180b32d3b8\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:15:5-32:19
+MERGED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:15:5-32:19
+MERGED from [com.github.LRH1993:AutoFlowLayout:1.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\3e589e803412f23c2e5306cef77be7b6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.LRH1993:AutoFlowLayout:1.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\3e589e803412f23c2e5306cef77be7b6\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.uncleleonfan:StellarMap:v1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce7a7c4db264f4332722593507cb7e63\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.uncleleonfan:StellarMap:v1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce7a7c4db264f4332722593507cb7e63\AndroidManifest.xml:11:5-15:19
+MERGED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:9:5-35:19
+MERGED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:9:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc9e7a10276111ad2b66724edb85cb83\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc9e7a10276111ad2b66724edb85cb83\AndroidManifest.xml:10:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.9] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4055cb5a7438e9d87dba3633e1aa5f1e\AndroidManifest.xml:10:5-20
+MERGED from [org.sufficientlysecure:html-textview:3.9] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4055cb5a7438e9d87dba3633e1aa5f1e\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:24:5-89
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd6b2338fde33a1e55fe327ec409ca09\AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd6b2338fde33a1e55fe327ec409ca09\AndroidManifest.xml:11:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\69018fecfd5dafebc30b9c77c5a6d8d8\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\69018fecfd5dafebc30b9c77c5a6d8d8\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce2f1107dbb77511bc2459e1c8be9b7f\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce2f1107dbb77511bc2459e1c8be9b7f\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.bw.p2pinvistment1802.view.MainActivity
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:12:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+MERGED from [com.github.Vincent7Wong:EasyNavigation:2.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f891bf342af71ef062513eccaba38920\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Vincent7Wong:EasyNavigation:2.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f891bf342af71ef062513eccaba38920\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e5ea6de26ff48db4b1b2395db2e51b53\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e5ea6de26ff48db4b1b2395db2e51b53\AndroidManifest.xml:5:5-7:41
+MERGED from [:lib_core] D:\AndroidStudioProjects_1802\p2p\lib_core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:lib_core] D:\AndroidStudioProjects_1802\p2p\lib_core\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.3.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc8a68e29b8aaac44459cacba8374f30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.ashokvarma.android:bottom-navigation-bar:1.3.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc8a68e29b8aaac44459cacba8374f30\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\54adfc6c9291645a5ee5b002c7febe4b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\54adfc6c9291645a5ee5b002c7febe4b\AndroidManifest.xml:20:5-44
+MERGED from [com.yanyusong.y_divideritemdecoration:y_divideritemdecoration:2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c12dfff01a906f6a96c49b180b32d3b8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.yanyusong.y_divideritemdecoration:y_divideritemdecoration:2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c12dfff01a906f6a96c49b180b32d3b8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzjin:ViewPagerGallery:1.3] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f93fd81b802406bf3b3984aa07f1e524\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lzjin:ViewPagerGallery:1.3] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\f93fd81b802406bf3b3984aa07f1e524\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LRH1993:AutoFlowLayout:1.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\3e589e803412f23c2e5306cef77be7b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LRH1993:AutoFlowLayout:1.0.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\3e589e803412f23c2e5306cef77be7b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.uncleleonfan:StellarMap:v1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce7a7c4db264f4332722593507cb7e63\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.uncleleonfan:StellarMap:v1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce7a7c4db264f4332722593507cb7e63\AndroidManifest.xml:7:5-9:41
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce362ea43a820af5675b8560a91c06f1\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-components:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce362ea43a820af5675b8560a91c06f1\AndroidManifest.xml:17:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\1dc9807a8724d45de8b720bb378d4643\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\1dc9807a8724d45de8b720bb378d4643\AndroidManifest.xml:20:5-22:41
+MERGED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:7:5-44
+MERGED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:7:5-44
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:22:5-24:41
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\34fdf6a47eba812b235fa3eea9c94957\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\34fdf6a47eba812b235fa3eea9c94957\AndroidManifest.xml:20:5-44
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4fa8ae1dde5425ccb02eee4effbc50b4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4fa8ae1dde5425ccb02eee4effbc50b4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc9e7a10276111ad2b66724edb85cb83\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cc9e7a10276111ad2b66724edb85cb83\AndroidManifest.xml:6:5-8:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\068a84fe7bc4f8a8e3a17a51c2175bfe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.youth.banner:banner:1.4.10] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\068a84fe7bc4f8a8e3a17a51c2175bfe\AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:html-textview:3.9] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4055cb5a7438e9d87dba3633e1aa5f1e\AndroidManifest.xml:6:5-8:41
+MERGED from [org.sufficientlysecure:html-textview:3.9] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\4055cb5a7438e9d87dba3633e1aa5f1e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.9.25] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d1f822df25ca370af8128e419a9ce23a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.ctiao:DanmakuFlameMaster:0.9.25] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d1f822df25ca370af8128e419a9ce23a\AndroidManifest.xml:22:5-24:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cd28d408d90a7b37908cb77d170813e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cd28d408d90a7b37908cb77d170813e5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\63fa1e1d16e35f31c2f35df2c2c479d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\63fa1e1d16e35f31c2f35df2c2c479d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bdec483c5aaaf2c079de9bcd300929b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bdec483c5aaaf2c079de9bcd300929b8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\301d9b26a021051f75ca01703e736526\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\301d9b26a021051f75ca01703e736526\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ae0266da455cc0ae0de1215760a4e339\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ae0266da455cc0ae0de1215760a4e339\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\b4e66562e025bf2f80868a41b91c6d21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\b4e66562e025bf2f80868a41b91c6d21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\560823c812a21fa8969a7b586cc3e8c3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\560823c812a21fa8969a7b586cc3e8c3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8a8caa620b93f9db05818d7b82955bd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8a8caa620b93f9db05818d7b82955bd4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2d5614c15fcc2222bd7ca88141262030\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2d5614c15fcc2222bd7ca88141262030\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\a9a5467ec4c20c21530f470ccd9cc7a1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\a9a5467ec4c20c21530f470ccd9cc7a1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c2dc835fe261a311e117996351e41e55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c2dc835fe261a311e117996351e41e55\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\93b1130072c96a56d2269d3c3bd0e70f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\93b1130072c96a56d2269d3c3bd0e70f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\98c6ed2e3416d37853ba7bdbcc079073\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\98c6ed2e3416d37853ba7bdbcc079073\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ab1b15754df0c3564d940eeea449ca42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ab1b15754df0c3564d940eeea449ca42\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fd0c699562f82f3a28fa2490f26f5a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fd0c699562f82f3a28fa2490f26f5a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6e8a390cddd57319d184250544f5c1db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6e8a390cddd57319d184250544f5c1db\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5f47342d5de8fd60d1858358a97f63a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5f47342d5de8fd60d1858358a97f63a2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5c97969496205521bb1cd35e8b35d225\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5c97969496205521bb1cd35e8b35d225\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\930f35dbca1d89dd3ecb7367785b832f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\930f35dbca1d89dd3ecb7367785b832f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\24c6ac45470b3f3a739a08195d222bdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\24c6ac45470b3f3a739a08195d222bdf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\23a778d0e472c773d6c937bde0af7772\AndroidManifest.xml:20:5-22:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd6b2338fde33a1e55fe327ec409ca09\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd6b2338fde33a1e55fe327ec409ca09\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fa9e2c1b723255dafe86b444d634226\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\8fa9e2c1b723255dafe86b444d634226\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\69018fecfd5dafebc30b9c77c5a6d8d8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\69018fecfd5dafebc30b9c77c5a6d8d8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cbc7251495326a6e2eba0c8690ce66d1\AndroidManifest.xml:17:5-44
+MERGED from [com.trello.rxlifecycle2:rxlifecycle-android:2.2.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cbc7251495326a6e2eba0c8690ce66d1\AndroidManifest.xml:17:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\821fb3c1cc6ae5cd51e9a16d701d3167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\821fb3c1cc6ae5cd51e9a16d701d3167\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5b918a8fc37982dd2a28fe349791c9f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\5b918a8fc37982dd2a28fe349791c9f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\206e036cd8cafe91947312a3863c9375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\206e036cd8cafe91947312a3863c9375\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\73ed4cd76976426ab818ef81580dcb83\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\73ed4cd76976426ab818ef81580dcb83\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce2f1107dbb77511bc2459e1c8be9b7f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\ce2f1107dbb77511bc2459e1c8be9b7f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\712bc0662cddce11dbae87c739f25ea1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\712bc0662cddce11dbae87c739f25ea1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cab9c78cc54af00e412b47116525f28e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\cab9c78cc54af00e412b47116525f28e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2c71b4c802b4adfcec89b5225db38fe0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\2c71b4c802b4adfcec89b5225db38fe0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\00f99811abc65ed8935017eccb1c8a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\00f99811abc65ed8935017eccb1c8a2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d4a7c53f99f5d86c6110da0aba40969c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\d4a7c53f99f5d86c6110da0aba40969c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c58a7ba3880f6ab3b016f6bc96e87b99\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\c58a7ba3880f6ab3b016f6bc96e87b99\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd88f09d80576775898a8792a9e8d1e8\AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\bd88f09d80576775898a8792a9e8d1e8\AndroidManifest.xml:18:5-43
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects_1802\p2p\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:12:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:28:5-81
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:13:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:27:5-80
+MERGED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:13:22-77
+activity#com.wildma.pictureselector.PictureSelectActivity
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:19:9-21:75
+	android:theme
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:21:13-72
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:20:13-76
+provider#androidx.core.content.FileProvider
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:23:9-31:20
+	android:grantUriPermissions
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:27:13-47
+	android:authorities
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:25:13-64
+	android:exported
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:24:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:28:13-30:54
+	android:resource
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:30:17-51
+	android:name
+		ADDED from [com.github.wildma:PictureSelector:2.0.0] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\6b63b4a95f5e63d1d1c60ee85b1346bb\AndroidManifest.xml:29:17-67
+activity#com.blankj.utilcode.util.UtilsTransActivity
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:10:9-15:75
+	android:multiprocess
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:13:13-40
+	android:windowSoftInputMode
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:15:13-72
+	android:configChanges
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:12:13-74
+	android:theme
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:11:13-71
+provider#com.blankj.utilcode.util.UtilsFileProvider
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:17:9-26:20
+	android:grantUriPermissions
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:21:13-47
+	android:authorities
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:19:13-69
+	android:multiprocess
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:22:13-40
+	android:exported
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:18:13-70
+service#com.blankj.utilcode.util.MessengerUtils$ServerService
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:29:13-81
+intent-filter#action:name:${applicationId}.messenger
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:31:13-33:29
+intent-filter#action:name:com.bw.p2pinvistment1802.messenger
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:31:13-33:29
+action#${applicationId}.messenger
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:32:25-66
+action#com.bw.p2pinvistment1802.messenger
+ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from [com.blankj:utilcodex:1.27.2] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\987040e2579eb3a5e5e64546b3d32b5e\AndroidManifest.xml:32:25-66
+uses-permission#android.permission.INTERNET
+ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:29:5-84
+	android:name
+		ADDED from [com.lzy.net:okgo:3.0.4] C:\Users\honor\.gradle\caches\transforms-2\files-2.1\e71308287ed33a844bfdb88e951eea10\AndroidManifest.xml:29:22-81

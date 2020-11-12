@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lzjin:ViewPagerGallery:1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f93fd81b802406bf3b3984aa07f1e524/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f93fd81b802406bf3b3984aa07f1e524/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lzjin/ViewPagerGallery/1.3/50c30313249d6d3f808aea2f5fb73018400773b3/ViewPagerGallery-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

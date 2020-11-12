@@ -1,0 +1,4 @@
+package com.bw.p2pinvistment1802.api;
+
+public interface MyApi {
+}
